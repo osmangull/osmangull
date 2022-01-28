@@ -1,7 +1,7 @@
 <html>
 <h3>Hi there 👋 I'm Osman</h3>
 <p>
-My full name Osman Gül. I living in Ankara/Turkey.I am introducing myself as a Java developer.I am currently working as an Android developer.💻 Maybe I like to share content that I find useful or that I like. I hope you find something useful for your business 👻
+My full name Osman Gül. I living in Izmir/Turkey.I am introducing myself as a Java developer.I am currently working as an Android developer.💻 Maybe I like to share content that I find useful or that I like. I hope you find something useful for your business 👻
 
 
 <h3>🤝🏻 Social</h3>
